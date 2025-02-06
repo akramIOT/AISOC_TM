@@ -8,7 +8,7 @@ from langchain.agents import initialize_agent
 from langchain.tools import Tool
 
 # OpenAI API Key Configuration
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 
 # Database Setup
 DB_DIRECTORY = "/Users/akram/Desktop/MOTIFIC_AI/TM"
