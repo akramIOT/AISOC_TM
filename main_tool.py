@@ -11,7 +11,7 @@ from langchain.tools import Tool
 os.environ["OPENAI_API_KEY"] = ""
 
 # Database Setup
-DB_DIRECTORY = "/Users/akram/Desktop/MOTIFIC_AI/TM"
+DB_DIRECTORY = "/Users/akram/Desktop/TM"
 DB_PATH = os.path.join(DB_DIRECTORY, "database.db")
 os.makedirs(DB_DIRECTORY, exist_ok=True)
 
