@@ -1,0 +1,26 @@
+## Bug report form
+### Steps to reproduce
+1.
+2.
+3.
+
+### Expected behaviour
+Tell us what should happen.
+
+### Actual behaviour
+Tell us what happens instead.
+
+### Browser/system information
+Tell us which browser, browser version, and operating system you were using when
+you encountered this issue.
+
+### Additional details
+
+
+## Feature Request Form
+### Problem you are trying to address with this feature
+
+### Your solution
+
+### Add tags - did you add labels? 
+If this a customer requested feature, make sure to add that label. 
