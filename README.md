@@ -33,7 +33,7 @@ The main advantages of using the SQL Agent are as follows
 To run the agent in CLI, you can use the following command:
 
 ```bash
-python main.py    ===> For Main Driver Code (Optional) 
+python main.py    ===> For Main Driver Code  present in path ../main/sql-agent/ (Optional) 
 ```
 
 To run the agent in Streamlit, you can use the following command:
