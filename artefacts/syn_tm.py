@@ -19,8 +19,6 @@ completion = client.completions.create(
 
 print(completion.choices[0].text)
 
-#AZURE_OPENAI_ENDPOINT = "https://eco-poc-gpt.openai.azure.com"
-
 # SQLite connection
 conn = sqlite3.connect("your_database.db")
 cursor = conn.cursor()
