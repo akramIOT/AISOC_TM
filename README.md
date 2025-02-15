@@ -1,6 +1,9 @@
 # Text2SQL or NLP prompt To SQL query generating Agent
 
-This is a simple SQL Agent that can be used to run SQL queries against a database using LLMs. The main advantages of using the SQL Agent are:
+This is a simple SQL Query generating AI Agent that can be used to generate & run SQL queries against a database using LLMs. 
+
+The main advantages of using the SQL Agent are as follows 
+
 - It can answer questions based on the databases’ schema as well as on the databases’ content (like describing a specific table).
 - It can recover from errors by running a generated query, catching the traceback and regenerating it correctly.
 - It can query the database as many times as needed to answer the user question.
