@@ -19,11 +19,10 @@ import openai
 # Increase recursion limit (temporary solution)
 sys.setrecursionlimit(10000)
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 
 # Set up OpenAI API key
-OPENAI_API_KEY = "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"
-
+OPENAI_API_KEY = ""
 client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
 db_directory = "/Users/akram/Desktop/MOTIFIC_AI/TM"
