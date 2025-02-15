@@ -25,7 +25,7 @@ os.environ["OPENAI_API_KEY"] = ""
 OPENAI_API_KEY = ""
 client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
-db_directory = "/Users/akram/Desktop/MOTIFIC_AI/TM"
+db_directory = "/Users/akram/Desktop/TM"
 db_path = os.path.join(db_directory, "database.db")
 
 # Ensure the directory exists
