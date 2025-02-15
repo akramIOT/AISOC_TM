@@ -17,7 +17,7 @@ from typing import Dict, List, Optional, Any
 # Temporary increase of recursion limit
 sys.setrecursionlimit(10000)
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key=""
 import os
 import sqlite3
 import streamlit as st
@@ -25,7 +25,7 @@ from langchain_community.utilities import SQLDatabase
 
 # Set up OpenAI API key
 
-db_directory = "/Users/akram/Desktop/MOTIFIC_AI/TM"
+db_directory = "/Users/akram/Desktop/TM"
 db_path = os.path.join(db_directory, "database.db")
 
 # Ensure the directory exists
