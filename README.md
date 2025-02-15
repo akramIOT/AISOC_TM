@@ -27,7 +27,7 @@ python main.py
 To run the agent in Streamlit, you can use the following command:
 
 ```bash
-streamlit run main.py
+streamlit run LLM_Agent.py
 ```
 
 ## Additional Information
